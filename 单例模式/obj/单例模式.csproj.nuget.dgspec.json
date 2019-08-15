@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Test\\DesignPattern\\DesignPattern\\单例模式\\单例模式.csproj": {}
+    "E:\\Test\\DesignPattern\\单例模式\\单例模式.csproj": {}
   },
   "projects": {
-    "E:\\Test\\DesignPattern\\DesignPattern\\单例模式\\单例模式.csproj": {
+    "E:\\Test\\DesignPattern\\单例模式\\单例模式.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Test\\DesignPattern\\DesignPattern\\单例模式\\单例模式.csproj",
+        "projectUniqueName": "E:\\Test\\DesignPattern\\单例模式\\单例模式.csproj",
         "projectName": "单例模式",
-        "projectPath": "E:\\Test\\DesignPattern\\DesignPattern\\单例模式\\单例模式.csproj",
+        "projectPath": "E:\\Test\\DesignPattern\\单例模式\\单例模式.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\Test\\DesignPattern\\DesignPattern\\单例模式\\obj\\",
+        "outputPath": "E:\\Test\\DesignPattern\\单例模式\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

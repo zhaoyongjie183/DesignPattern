@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Test\\DesignPattern\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
+      "projectUniqueName": "E:\\Test\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
       "projectName": "DesignPattern",
-      "projectPath": "E:\\Test\\DesignPattern\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
+      "projectPath": "E:\\Test\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\Test\\DesignPattern\\DesignPattern\\DesignPattern\\obj\\",
+      "outputPath": "E:\\Test\\DesignPattern\\DesignPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

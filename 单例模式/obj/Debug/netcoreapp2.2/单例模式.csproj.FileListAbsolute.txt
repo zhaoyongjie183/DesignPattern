@@ -9,3 +9,14 @@ E:\Test\DesignPattern\DesignPattern\单例模式\obj\Debug\netcoreapp2.2\单例�
 E:\Test\DesignPattern\DesignPattern\单例模式\obj\Debug\netcoreapp2.2\单例模式.AssemblyInfo.cs
 E:\Test\DesignPattern\DesignPattern\单例模式\obj\Debug\netcoreapp2.2\单例模式.dll
 E:\Test\DesignPattern\DesignPattern\单例模式\obj\Debug\netcoreapp2.2\单例模式.pdb
+E:\Test\DesignPattern\单例模式\bin\Debug\netcoreapp2.2\单例模式.deps.json
+E:\Test\DesignPattern\单例模式\bin\Debug\netcoreapp2.2\单例模式.runtimeconfig.json
+E:\Test\DesignPattern\单例模式\bin\Debug\netcoreapp2.2\单例模式.runtimeconfig.dev.json
+E:\Test\DesignPattern\单例模式\bin\Debug\netcoreapp2.2\单例模式.dll
+E:\Test\DesignPattern\单例模式\bin\Debug\netcoreapp2.2\单例模式.pdb
+E:\Test\DesignPattern\单例模式\obj\Debug\netcoreapp2.2\单例模式.csprojAssemblyReference.cache
+E:\Test\DesignPattern\单例模式\obj\Debug\netcoreapp2.2\单例模式.csproj.CoreCompileInputs.cache
+E:\Test\DesignPattern\单例模式\obj\Debug\netcoreapp2.2\单例模式.AssemblyInfoInputs.cache
+E:\Test\DesignPattern\单例模式\obj\Debug\netcoreapp2.2\单例模式.AssemblyInfo.cs
+E:\Test\DesignPattern\单例模式\obj\Debug\netcoreapp2.2\单例模式.dll
+E:\Test\DesignPattern\单例模式\obj\Debug\netcoreapp2.2\单例模式.pdb
