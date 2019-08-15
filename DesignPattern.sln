@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern", "DesignPattern\DesignPattern.csproj", "{F077DACC-CFCF-4B5C-9F05-78FE5912F91F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "单例模式", "单例模式\单例模式.csproj", "{965179DD-1E82-41F3-B2E0-E450BBCDFDCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F077DACC-CFCF-4B5C-9F05-78FE5912F91F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F077DACC-CFCF-4B5C-9F05-78FE5912F91F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F077DACC-CFCF-4B5C-9F05-78FE5912F91F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F077DACC-CFCF-4B5C-9F05-78FE5912F91F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{965179DD-1E82-41F3-B2E0-E450BBCDFDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965179DD-1E82-41F3-B2E0-E450BBCDFDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965179DD-1E82-41F3-B2E0-E450BBCDFDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965179DD-1E82-41F3-B2E0-E450BBCDFDCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78ACDFA8-BE20-4C5B-ACB5-0E3D82A106F8}
+	EndGlobalSection
+EndGlobal
