@@ -21,7 +21,7 @@ namespace 单例模式
         }
         public static Singleton getInstance()
         {
-            if (singleton == null)
+            if (singleton == null)//双检锁  这样不用每次都去锁定耗费资源
             {
                 lock (Singleton_Lock)
                 {
