@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="建造者模式.Program" Collapsed="true">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="建造者模式.Phone">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAgAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Phone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="建造者模式.IPhone">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAgAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPhone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="建造者模式.BuildCreate">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAgAAAAAAAAAAA=</HashCode>
+      <FileName>BuildCreate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
