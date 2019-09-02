@@ -23,13 +23,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "策略模式", "策略模�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "观察者模式", "观察者模式\观察者模式.csproj", "{68F20079-52A5-4927-8145-AEFBEE8581C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "建造者模式", "建造者模式\建造者模式.csproj", "{9FB42D1B-72FC-424E-ADC5-57AB4C533C30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "建造者模式", "建造者模式\建造者模式.csproj", "{9FB42D1B-72FC-424E-ADC5-57AB4C533C30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "中介模式", "中介模式\中介模式.csproj", "{FFE4E099-99AB-4C49-8844-FF5B214911F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "中介模式", "中介模式\中介模式.csproj", "{FFE4E099-99AB-4C49-8844-FF5B214911F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "工厂方法模式", "工厂模式\工厂方法模式.csproj", "{41D1A080-118F-43F1-AE8F-455A2676FCDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "工厂方法模式", "工厂模式\工厂方法模式.csproj", "{41D1A080-118F-43F1-AE8F-455A2676FCDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "抽象工厂", "抽象工厂\抽象工厂.csproj", "{CDB1C970-6BDF-4DDF-9BB8-11D06E079001}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "抽象工厂", "抽象工厂\抽象工厂.csproj", "{CDB1C970-6BDF-4DDF-9BB8-11D06E079001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "备忘录模式", "备忘录模式\备忘录模式.csproj", "{9576B22C-5825-476D-A199-F7798586C2A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "状态模式", "状态模式\状态模式.csproj", "{2270734B-8224-41CA-B79C-1E98570AEA16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{CDB1C970-6BDF-4DDF-9BB8-11D06E079001}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDB1C970-6BDF-4DDF-9BB8-11D06E079001}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDB1C970-6BDF-4DDF-9BB8-11D06E079001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9576B22C-5825-476D-A199-F7798586C2A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9576B22C-5825-476D-A199-F7798586C2A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9576B22C-5825-476D-A199-F7798586C2A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9576B22C-5825-476D-A199-F7798586C2A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2270734B-8224-41CA-B79C-1E98570AEA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2270734B-8224-41CA-B79C-1E98570AEA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2270734B-8224-41CA-B79C-1E98570AEA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2270734B-8224-41CA-B79C-1E98570AEA16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
