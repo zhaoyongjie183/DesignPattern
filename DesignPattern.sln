@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29201.188
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31606.5
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPattern", "DesignPattern\DesignPattern.csproj", "{F077DACC-CFCF-4B5C-9F05-78FE5912F91F}"
 EndProject
@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "备忘录模式", "备忘�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "状态模式", "状态模式\状态模式.csproj", "{2270734B-8224-41CA-B79C-1E98570AEA16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "命令模式", "命令模式\命令模式.csproj", "{8057AA92-D2DC-4E4F-9167-D637B0F2BB59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "命令模式", "命令模式\命令模式.csproj", "{8057AA92-D2DC-4E4F-9167-D637B0F2BB59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "责任链模式", "责任链模式\责任链模式.csproj", "{5BDEF161-E696-4D0C-A0BF-C964821944B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{8057AA92-D2DC-4E4F-9167-D637B0F2BB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8057AA92-D2DC-4E4F-9167-D637B0F2BB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8057AA92-D2DC-4E4F-9167-D637B0F2BB59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BDEF161-E696-4D0C-A0BF-C964821944B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDEF161-E696-4D0C-A0BF-C964821944B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDEF161-E696-4D0C-A0BF-C964821944B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDEF161-E696-4D0C-A0BF-C964821944B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

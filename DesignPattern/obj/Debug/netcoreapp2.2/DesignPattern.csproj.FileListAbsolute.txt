@@ -9,3 +9,16 @@ E:\Test\DesignPattern\DesignPattern\DesignPattern\obj\Debug\netcoreapp2.2\Design
 E:\Test\DesignPattern\DesignPattern\DesignPattern\obj\Debug\netcoreapp2.2\DesignPattern.AssemblyInfo.cs
 E:\Test\DesignPattern\DesignPattern\DesignPattern\obj\Debug\netcoreapp2.2\DesignPattern.dll
 E:\Test\DesignPattern\DesignPattern\DesignPattern\obj\Debug\netcoreapp2.2\DesignPattern.pdb
+E:\Demo\DesignPattern\DesignPattern\bin\Debug\netcoreapp2.2\DesignPattern.deps.json
+E:\Demo\DesignPattern\DesignPattern\bin\Debug\netcoreapp2.2\DesignPattern.runtimeconfig.json
+E:\Demo\DesignPattern\DesignPattern\bin\Debug\netcoreapp2.2\DesignPattern.runtimeconfig.dev.json
+E:\Demo\DesignPattern\DesignPattern\bin\Debug\netcoreapp2.2\DesignPattern.dll
+E:\Demo\DesignPattern\DesignPattern\bin\Debug\netcoreapp2.2\DesignPattern.pdb
+E:\Demo\DesignPattern\DesignPattern\obj\Debug\netcoreapp2.2\DesignPattern.csproj.AssemblyReference.cache
+E:\Demo\DesignPattern\DesignPattern\obj\Debug\netcoreapp2.2\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo\DesignPattern\DesignPattern\obj\Debug\netcoreapp2.2\DesignPattern.AssemblyInfoInputs.cache
+E:\Demo\DesignPattern\DesignPattern\obj\Debug\netcoreapp2.2\DesignPattern.AssemblyInfo.cs
+E:\Demo\DesignPattern\DesignPattern\obj\Debug\netcoreapp2.2\DesignPattern.csproj.CoreCompileInputs.cache
+E:\Demo\DesignPattern\DesignPattern\obj\Debug\netcoreapp2.2\DesignPattern.dll
+E:\Demo\DesignPattern\DesignPattern\obj\Debug\netcoreapp2.2\DesignPattern.pdb
+E:\Demo\DesignPattern\DesignPattern\obj\Debug\netcoreapp2.2\DesignPattern.genruntimeconfig.cache

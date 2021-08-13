@@ -20,3 +20,16 @@ E:\Test\DesignPattern\单例模式\obj\Debug\netcoreapp2.2\单例模式.Assembly
 E:\Test\DesignPattern\单例模式\obj\Debug\netcoreapp2.2\单例模式.AssemblyInfo.cs
 E:\Test\DesignPattern\单例模式\obj\Debug\netcoreapp2.2\单例模式.dll
 E:\Test\DesignPattern\单例模式\obj\Debug\netcoreapp2.2\单例模式.pdb
+E:\Demo\DesignPattern\单例模式\bin\Debug\netcoreapp2.2\单例模式.deps.json
+E:\Demo\DesignPattern\单例模式\bin\Debug\netcoreapp2.2\单例模式.runtimeconfig.json
+E:\Demo\DesignPattern\单例模式\bin\Debug\netcoreapp2.2\单例模式.runtimeconfig.dev.json
+E:\Demo\DesignPattern\单例模式\bin\Debug\netcoreapp2.2\单例模式.dll
+E:\Demo\DesignPattern\单例模式\bin\Debug\netcoreapp2.2\单例模式.pdb
+E:\Demo\DesignPattern\单例模式\obj\Debug\netcoreapp2.2\单例模式.csproj.AssemblyReference.cache
+E:\Demo\DesignPattern\单例模式\obj\Debug\netcoreapp2.2\单例模式.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo\DesignPattern\单例模式\obj\Debug\netcoreapp2.2\单例模式.AssemblyInfoInputs.cache
+E:\Demo\DesignPattern\单例模式\obj\Debug\netcoreapp2.2\单例模式.AssemblyInfo.cs
+E:\Demo\DesignPattern\单例模式\obj\Debug\netcoreapp2.2\单例模式.csproj.CoreCompileInputs.cache
+E:\Demo\DesignPattern\单例模式\obj\Debug\netcoreapp2.2\单例模式.dll
+E:\Demo\DesignPattern\单例模式\obj\Debug\netcoreapp2.2\单例模式.pdb
+E:\Demo\DesignPattern\单例模式\obj\Debug\netcoreapp2.2\单例模式.genruntimeconfig.cache
